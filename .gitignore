@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 *.html
+Dummy.Rmd
+Dummy_cache/
+Dummy_files/
