@@ -1,0 +1,29 @@
+---
+title: "Thesis question"
+subtitle: "First draft for discussion"
+author: "Greig Russell"
+date: "`r Sys.Date()`"
+output:
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: xelatex
+  tufte::tufte_html: default
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+bibliography: Reference.bib
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+# Introduction
+
+No question occurs without a context or an origin story. Typically, in philosophy questions like "What is the nature of reality" and "how do I know that I am right" are considered? This question will focus on the epistemological challenge of the later. This issue has been the focus of philosophers (Descartes) and non-philosophers (Trump) for many centuries. 
+
+@Descartes1641 denied the relevance of sense data, and only believed in the reality of his cognition. Arguing that he could be asleep and dreaming, rather than awake and perceiving without the ability to distinguish between the two states. Instead he argued that it was the reality of God which enabled him to be sure he was right.  [@Descartes1641]
