@@ -1,5 +1,5 @@
 ---
-title: "Thesis question"
+title: "Being right in the information era"
 subtitle: "First draft for discussion"
 author: "Greig Russell"
 date: "`r Sys.Date()`"
@@ -24,6 +24,11 @@ options(htmltools.dir.version = FALSE)
 
 # Introduction
 
-`r newthought('No question occurs without a context')` or an origin story. Typically, in philosophy questions like "What is the answer to " and "how do I know that I am right" are considered? This question will focus on the epistemological challenge of the later. This issue has been the focus of philosophers (Descartes) and non-philosophers (Trump) for many centuries. 
+`r newthought('No question occurs without a context')` or an origin story. Typically, in philosophy questions like "What is the answer to " are immediately followed by "how do I know that I am right"? This thesis will focus on the epistemological challenge of the later. This issue has been the focus of philosophers (Descartes) and non-philosophers (Trump) for many centuries.   
 
-@Descartes1641 denied the relevance of sense data and only believed in the reality of his cognition. Arguing that he could be asleep and in a dream without the ability to distinguish this state from waking and perceiving. Instead, he claimed that it was the reality of God which enabled him to be sure he was right.  [@Descartes1641]
+@Descartes1641 considered the question of the nature of his reality by denying the relevance of sense data and only believing in the reality of his cognition. Arguing that he could be asleep and in a dream without the ability to distinguish this state from waking and perceiving, so only his thoughts were undisputably real. This lead to the famous position of "I think therefore I am" as the basis for his philosophical meditations on the nature of his reality [Descartes1641].  
+
+In Meditation four,`r margin_note('Descrates argues he is right when his beliefs and actions are aligned to an external source of truth, in his case the Judo-Christian God as perceived in the 15th Century')` @Descartes1641 uses as his truth determinant the stated existence of God, who inherently does not have properties which would render his _(sic)_  judgement open to any doubt. Descartes, on the other hand, states his imperfections as being the basis of his errors [Descartes1641].    
+
+Error or falsity occurs when Descartes exercises his free will (actions) to move beyond his cognitive understanding of a given situation. Conversely, if Descartes confines his efforts to situations where he has a full understanding, then he is right as evidenced by his ability to "so see there the image of God [Descartes1641]."  
+
