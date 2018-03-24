@@ -8,3 +8,7 @@ Dummy_cache/
 Dummy_files/
 First_draft_cache/
 *.odt
+First_draft.pdf
+*.bib~
+*.bib~*
+skeleton.bib
