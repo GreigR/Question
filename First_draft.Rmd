@@ -24,11 +24,25 @@ options(htmltools.dir.version = FALSE)
 
 # Introduction
 
-`r newthought('No question occurs without a context')` or an origin story. Typically, in philosophy questions like "What is the answer to " are immediately followed by "how do I know that I am right"? This thesis will focus on the epistemological challenge of the later. This issue has been the focus of philosophers (Descartes) and non-philosophers (Trump) for many centuries.   
+`r newthought('No question occurs without a context')` or an origin story. Typically, in philosophy, questions like "What is the answer to " are immediately followed by "how do I know that I am right"? This thesis will focus on the epistemological challenge of the later. This issue has been the focus of philosophers (Descartes) and non-philosophers (Trump) for many centuries.  
 
-@Descartes1641 considered the question of the nature of his reality by denying the relevance of sense data and only believing in the reality of his cognition. Arguing that he could be asleep and in a dream without the ability to distinguish this state from waking and perceiving, so only his thoughts were undisputably real. This lead to the famous position of "I think therefore I am" as the basis for his philosophical meditations on the nature of his reality [Descartes1641].  
+`r newthought('Descartes [1641]')` considered the question of the nature of his reality by denying the relevance of sense data and only believing in the reality of his cognition. Arguing that he could be asleep and in a dream without the ability to distinguish this state from waking and perceiving, so only his thoughts were undisputably real. This lead to the famous position of "I think therefore I am" as the basis for his philosophical meditations on the nature of his reality [Descartes1641].  
 
 In Meditation four,`r margin_note('Descrates argues he is right when his beliefs and actions are aligned to an external source of truth, in his case the Judo-Christian God as perceived in the 15th Century')` @Descartes1641 uses as his truth determinant the stated existence of God, who inherently does not have properties which would render his _(sic)_  judgement open to any doubt. Descartes, on the other hand, states his imperfections as being the basis of his errors [Descartes1641].    
 
-Error or falsity occurs when Descartes exercises his free will (actions) to move beyond his cognitive understanding of a given situation. Conversely, if Descartes confines his efforts to situations where he has a full understanding, then he is right as evidenced by his ability to "so see there the image of God [Descartes1641]."  
+Error or falsity occurs when Descartes exercises his free will (actions) to move beyond his cognitive understanding of a given situation. Conversely, if Descartes confines his efforts to situations where he has full knowledge, then he is right as evidenced by his ability to "so see there the image of God [Descartes1641]."  
+
+ `r newthought('Hume [1751]')` had the diametrically opposite perspective to that of Descartes. Primary sensory perceptions and the impressions generated from reflections on those perceptions are the basis of ideas [@Hume1751, Section II - Of the origin of ideas]. 
+
+The association between ideas for Hume can be one of "Resemblance" or "Continuity" and most importantly "Cause and effect" [@Hume1751, Section III - Of the association of ideas]. The first two can never have truth validity associated with them. A Tuatara resembles a lizard; only it is not. All swans are not white, but all swans in Europe are white, so when a European is thinking of a swan they will recall only a white swan, but this does not prove all swans are white.
+
+In Section IV `r margin_note('Hume argues for the primacy of the senses as the basis of ideas. For Hume being right is establishing a causative relationship is an internally consistent chain that invariably decsribes the connection and is based on other sense derived phenomea or basic matehmatical axioms')`- "Sceptical doubts concerning the operations of the understanding" @Hume1759 focuses on the _"is-ought"_ paradox he first raised in his "A Treatise on Human Understanding" [@Hume1739, p. 379]. Namely, because one thing **is** associated with another,  does not mean they **ought** to be associated with each other.  For Hume, such infinite scepticism will be addressed through human reason, which he divides into two categories; "Relations of ideas" and "Matters of fact" [-@Hume1751].  
+
+The concept of "Relations of ideas" is obviously influenced by Newton's laws of Physics, where describing the causal relationship between two ideas is mathematically derived and underpinned by the self-evident core axioms [@Hume1751, Part 1, Section IV]. Where the force created in one billard ball is transfered to another by the collision and described by the formula for Newton's second law;
+
+$$Force = Mass. Acceleration$$
+
+"Matters of fact" or cause and effect between two ideas have to transcend the temporal or spatial. The example used is free will, or human thought can control finger movement but not liver action, so free will cannot cause the finger to move as it is not necessary or sufficient. For Hume, finger movement derives from the nerves connecting the brain to the finger and arm muscles. Each component in this causal chain is a sensory derived idea [@Hume1751, Part 1, Section VII - Of the idea of necessary connection].  
+
+In this Hume was describing a deterministic universe based on internal consistency and derived from sense based information. Excluded are concepts of cognition or external social sources of validity including theism. These excludions were fundamental to @Descartes1641 formula for being correct.  
 
