@@ -15,12 +15,16 @@ bibliography: Reference.bib
 link-citations: yes
 ---
 
+\pagenumbering{gobble}
+
 ```{r setup, include=FALSE}
 library(tufte)
 # invalidate cache when the tufte version changes
 knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
 options(htmltools.dir.version = FALSE)
 ```
+
+\pagenumbering{arabic}
 
 # Introduction
 
