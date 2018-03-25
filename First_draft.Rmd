@@ -15,7 +15,7 @@ bibliography: Reference.bib
 link-citations: yes
 ---
 
-\pagenumbering{gobble}
+
 
 ```{r setup, include=FALSE}
 library(tufte)
@@ -50,3 +50,18 @@ $$Force = Mass. Acceleration$$
 
 In this Hume was describing a deterministic universe based on internal consistency and derived from sense based information. Excluded are concepts of cognition or external social sources of validity including theism. These excludions were fundamental to @Descartes1641 formula for being correct.  
 
+`r newthought("History plays cruel jests")` on the wise. @Hume1751 rejected probability as a sufficient basis to underpin determination of cause behind an effect. The relentless determinism which followed instead demonstrated that the universe was by nature inherently probabilistic. 
+
+In the early 20th century `r margin_note('Statistical truth merges the concepts of an intrinsic casual relationship defined by mathematics derived from fundamental axioms')`, statistics and probability developed into cornerstones of modern science, so that now little-deemed science occurs without them, and statistical techniques have spilt into non-traditional subjects such literature through techniques like text analysis [@silge2016tidytext].
+
+@fisher1925statistical describes how he saw statistics as being the application of applied mathematics to populations. In his work, this original concept had been extended to an understanding of variation and the "reduction of data" (@fisher1925statistical p. 1). His worked extended into the study of frequency distributions, which describe the spread of a characteristic within a population and enable the use of specific statistical models to explain that variation [@fisher1925statistical]. 
+
+Described is also the work by Pearson on correlation or covariance (@fisher1925statistical, p.6). Covariance describes how the stronger two properties of a population are related can be measured by how much they vary at the same time.  @student1908probable describes the differences between two means, where a mean is a measure of the central tendency within a population. 
+
+As a result of this work, the truth or validity was about the properties of two related populations; whether the difference was mathematically higher than that expected by chance alone or conversely if these two populations varied were statistically covariant then it could mean they were causally related. This new methodology not only suggested possible avenues for further study, but it also provided a vehicle to demonstrate which explanation is most likely [@field2012discovering].
+
+#The information era
+
+
+
+\newpage
