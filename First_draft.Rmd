@@ -60,6 +60,10 @@ Described is also the work by Pearson on correlation or covariance (@fisher1925s
 
 As a result of this work, the truth or validity was about the properties of two related populations; whether the difference was mathematically higher than that expected by chance alone or conversely if these two populations varied were statistically covariant then it could mean they were causally related. This new methodology not only suggested possible avenues for further study, but it also provided a vehicle to demonstrate which explanation is most likely [@field2012discovering].
 
+`r newthought('The philosophy of science')` presents its student with a different aspect to the challenge of knowing if you are right.`r margin_note('For Popper being right was having a valid thory that now one had proved wrong')` As most scientific theories are wrong and only a stepping stone towards a deeper understanding of the underlying question. For @popper2005logic the answer was that scientific theories were right if no one has proved them wrong. The nuance of this seemingly self-evident statement was for a scientific theory to be a valid theory; it had to generate new hypotheses to test including at least one that if true would disprove the theory [@popper2005logic].
+
+For @kuhn2012structure, Popper may have described a scientific theory and its exploration through progressive experimentation, but there was more to science. `r margin_note('Kuhn extended this theory of being right to include a social acceptance by the scientific community')` For Kuhn saw the process of science as being organised around a central paradigm (-@kuhn2012structure).  Where adoption of this theory was a social process, as was its abandonment. Where doubts about the incumbent rose with evidence that did falsify it, leading to the development of the new theory. Adoption of this new theory would be a social process across the sictentific community as a whole [@kuhn2012structure].
+
 #The information era
 
 
