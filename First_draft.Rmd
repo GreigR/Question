@@ -65,6 +65,20 @@ As a result of this work, the truth or validity was about the properties of two 
 For @kuhn2012structure, Popper may have described a scientific theory and its exploration through progressive experimentation, but there was more to science. `r margin_note('Kuhn extended this theory of being right to include a social acceptance by the scientific community')` For Kuhn saw the process of science as being organised around a central paradigm (-@kuhn2012structure).  Where adoption of this theory was a social process, as was its abandonment. Where doubts about the incumbent rose with evidence that did falsify it, leading to the development of the new theory. Adoption of this new theory would be a social process across the sictentific community as a whole [@kuhn2012structure].
 
 #The information era
+`r newthought('A necessary precursor')` to any information age was the development of the modern computer.`r margin_note('For Turing the computer assisted the expert, the source of truth and the validity of the answer was the user and not the computer')`  Turing (1937) conceptualization has become the core design concept, of which everything since has only been an implementation.  The components of his machine were;
+
+1. A paper tape, which is usually described as being infinite, which contains the a set of 1's and 0's. The initial state of this paper tape describes the input to the process, the final state is the output.
+2. The head which reads the paper tape and consults the set of instructions as to what next steps to take.
+3. A set of instructions, such as change the value of this cell, then move n places to the left.
+
+For Turing the machine was mostly a means to an end as the focus on his work was solving the "Holting problem", namely would such machines always end, with the answer being "no they would not" [@turing1937computable].  
+
+There are two key elements to the Turing machine. The first is that it has no concept of validity. The message on the tape is what it was, both initially and on successful termination of what we would now call the program. Instead it used identity as a substitute. I would argue this is not an overisght, but a manifestation of Turing's reality. He was the source of validity and truth. The computer assisted him in that process, but was not in itself ever meant to be a source of the truth.
+
+![A slide rule](/home/greig/Philosophy/Question/Slide_rule.png)
+
+Consider a more accessible example the slide riule, the pocket calculator for all scientists and mathematicians of the era. Usefully the manufacturer places a mark for $\pi$ at 3.14. Slide rule users of ear would all know the value of $\pi$ and this was only a convenience, not an indication of the truth as to the value of $\pi$. If the mark was found to be in the wrong place, it would not cause error as the source of validity was with the user. 
+
 
 \newpage
 ##Appendix 1: Prolog programming language
