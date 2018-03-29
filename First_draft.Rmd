@@ -66,6 +66,28 @@ For @kuhn2012structure, Popper may have described a scientific theory and its ex
 
 #The information era
 
+\newpage
+##Appendix 1: Prolog programming language
+@colmerauer1996birth `r margin_note('Although logic is core to Prolog, the utility of Prolog in Logic is less certain. Currently this is a tool with potential but without purpose.')`describes both the birth and the intent of the Prolog computing language in the early 1970s.  Prolog's focus was to be in natural language processing, but with time Prolog has also developed to become a general purpose computing language (@liu2018logic). Its most common use remains in natural language processing and the development of expert systems including IBM Watson (@liu2018logic, p. 15). 
 
+Prolog aims to enable the representation of knowledge through the used of formal predicate logic (@baral1994logic). Logic programming is unique among computing paradigms in that it includes the concepts of fact and validity of expressions as fundamental core constructs, inherent to the language itself (@colmerauer1996birth). 
+
+To a logistician, Prolog is an idiosyncratic representation of the usual and commonplace. Consider modus pons;
+
+$$p \supset q$$
+$$p$$
+**Hence**
+$$q$$
+
+is represented in Prolog as;
+
+\begin{center}
+p \newline
+q :- p \newline
+\end{center}
+
+Which is to be read as p is true, hence q must be true given p is true.
+
+So Prolog provides a vehicle for knowledge representation through the use of formal logic. What is less obvious is what it adds to a discussion of the logic itself and its underlying formal proof.
 
 \newpage
